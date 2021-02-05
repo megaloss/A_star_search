@@ -1,2 +1,4 @@
 # A_star_search
-A* search visualization
+<img scr="a-search.png"></img>
+
+A* search visualization using Pygame
